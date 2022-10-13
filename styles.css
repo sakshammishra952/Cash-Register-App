@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color:#CDFCF6;
+  }
+  .container {
+    margin: 4rem auto 7rem;
+    text-align: center;
+  }
+  
+  .input-label {
+    display: block;
+    font-size: large;
+    font-weight: 600;
+  }
+  
+  .input {
+    font-size: 14px;
+    outline: #5F9DF7;
+    padding: 0.6rem 1rem;
+    margin: 1rem;
+    border: #5F9DF7;
+    border-radius: 0.5rem;
+    width: 100%;
+    max-width: 258px;
+  }
+  #check-button {
+    background: #5F9DF7;
+    border: none;
+    color: #fff;
+    padding: 0.7rem 1rem;
+    border-radius: 0.5rem;
+    font-size: large;
+    cursor: pointer;
+    outline: #fff;
+    margin: auto;
+    display: block;
+  }
+  
+  #error-message {
+    display: block;
+    font-size: larger;
+    margin: 1rem 0 0;
+  }
+  .change-table {
+    width: 50%;
+    text-align: justify;
+    border-collapse: collapse;
+    margin: auto;
+  }
