@@ -13,6 +13,8 @@
     display: block;
     font-size: large;
     font-weight: 600;
+    border: 2PX solid black
+    ;
   }
   
   .input {
