@@ -13,8 +13,7 @@
     display: block;
     font-size: large;
     font-weight: 600;
-    border: 2PX solid black
-    ;
+    
   }
   
   .input {
@@ -26,6 +25,8 @@
     border-radius: 0.5rem;
     width: 100%;
     max-width: 258px;
+    border: 2PX solid black
+    ;
   }
   #check-button {
     background: #5F9DF7;
